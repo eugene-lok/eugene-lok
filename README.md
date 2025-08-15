@@ -23,47 +23,14 @@ I'm a software engineer with a **Master's in Software Engineering** and unique b
 - **BSc Geomatics Engineering** - University of Calgary (2021)
 - **Microsoft Azure Fundamentals (AZ-900)** - Recently Certified
 
-### 🌟 Featured Projects
-
-#### 🗺️ Journeo - AI Travel Planner
-*React • FastAPI • LangChain • OpenAI API • Mapbox*
-- Full-stack LLM application generating personalized travel itineraries
-- Real-time chatbot interface with <10 second response times  
-- Interactive map visualization with route planning
-- Multi-agent AI system with 99% parsing accuracy
-
-#### 🏥 Public Health Classification Model
-*Python • TensorFlow • QGIS*
-- Machine learning model identifying 1000+ regions needing medical intervention
-- Geospatial data analysis and visualization for healthcare resource allocation
-
-#### 🧠 Neurotechnology Feedback Platform  
-*Node.js • MongoDB • REST APIs*
-- Web platform collecting feedback from 200+ participants on neurostimulation devices
-- Streamlined user interactions with 30% reduction in required actions
-
-### 💼 Professional Experience
-- **Software Consultant** @ WebLAN Systems (Current)
-- **Software Engineering Intern** @ Benevity 
-- **Student Developer** @ Code the Change YYC
-- **IT Support Specialist** (6 months) - MSP experience with system troubleshooting
-
-### 🔍 Unique Perspective
-My **geomatics engineering background** gives me specialized knowledge in:
-- Geospatial data processing and analysis
-- Coordinate systems and map projections  
-- Location-based application development
-- GIS integration and spatial databases
-
 ### 🌱 Currently Learning
 - Advanced cloud architecture patterns
 - Test automation frameworks
 - DevOps and CI/CD practices
 - Modern JavaScript/TypeScript patterns
+### 🎓 Background
+MEng Software Engineering • BSc Geomatics Engineering • University of Calgary
 
-### 📫 Get In Touch
-- **LinkedIn**: [linkedin.com/in/eugene-lok](https://linkedin.com/in/eugene-lok)
-- **Email**: eugeneywlok@gmail.com
-- **Location**: Calgary, AB (Open to remote/relocation)
-
+### 📫 Contact
+[LinkedIn](https://linkedin.com/in/eugene-lok) • eugeneywlok@gmail.com • Calgary, AB
 ---
