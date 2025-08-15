@@ -1,14 +1,14 @@
 # Hi there! 👋 I'm Eugene Lok
 
 ## Software Engineer | Full-Stack Developer | Geospatial Systems
-
+**Open to Opportunities**: Seeking full-stack, AL/ML, or cloud engineering roles
 I'm a software engineer with a **Master's in Software Engineering** and unique background in **Geomatics Engineering**, passionate about building innovative applications that solve real-world problems. Currently focused on **AI-powered applications** and **cloud technologies**.
 
 ### 🚀 What I'm Working On
 - **SpaceHive**: Develping React Native + TypeScript event-space booking app, in collaboration with a UI/UX capstone team
 - **Journeo**: LLM-powered travel itinerary planner using React, FastAPI, and OpenAI's GPT API
 - **Learning Azure Cloud**: Recently earned AZ-900 certification, exploring further cloud development 
-- **Open to Opportunities**: Seeking full-stack, AL/ML, or cloud engineering roles
+
 
 ### 💻 Technical Skills
 - **Languages**:        Python • JavaScript • Java • SQL • HTML/CSS • C++
