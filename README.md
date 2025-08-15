@@ -2,6 +2,7 @@
 
 ## Software Engineer | Full-Stack Developer | Geospatial Systems
 **Open to Opportunities**: Seeking full-stack, AL/ML, or cloud engineering roles
+
 I'm a software engineer with a **Master's in Software Engineering** and unique background in **Geomatics Engineering**, passionate about building innovative applications that solve real-world problems. Currently focused on **AI-powered applications** and **cloud technologies**.
 
 ### 🚀 What I'm Working On
