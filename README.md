@@ -12,23 +12,17 @@ I'm a software engineer with a **Master's in Software Engineering** and unique b
 
 ### 💻 Technical Skills
 - **Languages**:        Python • JavaScript • Java • SQL • HTML/CSS • C++
-- **Frontend**:         React.js • HTML/CSS • Responsive Design
-- **Backend**:          FastAPI • Node.js • REST APIs • Express
-- **AI/ML**:            LangChain • OpenAI API • TensorFlow • LLM Integration
+- **Web Dev**:         React.js • FastAPI • Node.js • REST APIs 
+- **AI/ML**:            LangGraph • OpenAI API • TensorFlow • LLM Integration
 - **Databases**:        MongoDB • SQL • PostGIS
 - **Cloud**:            Microsoft Azure (AZ-900 Certified)
 - **Tools**:            Git • ArcGIS • QGIS • MATLAB
 
-### 🎓 Education & Background
-- **MEng Software Engineering** - University of Calgary (2023)
-- **BSc Geomatics Engineering** - University of Calgary (2021)
-- **Microsoft Azure Fundamentals (AZ-900)** - Recently Certified
-
 ### 🌱 Currently Learning
 - Advanced cloud architecture patterns
 - Test automation frameworks
-- DevOps and CI/CD practices
 - Modern JavaScript/TypeScript patterns
+
 ### 🎓 Background
 MEng Software Engineering • BSc Geomatics Engineering • University of Calgary
 
