@@ -1,32 +1,12 @@
 # Hi there! 👋 I'm Eugene Lok
 
-## Software Engineer | Full-Stack Developer | Geospatial Systems
-**Open to Opportunities**: Seeking full-stack, AL/ML, or cloud engineering roles
+# Eugene Lok
 
-I'm a software engineer with a **Master's in Software Engineering** and unique background in **Geomatics Engineering**, passionate about building innovative applications that solve real-world problems. Currently focused on **AI-powered applications** and **cloud technologies**.
+Software Developer Intern (full-time, post-graduate) at **Open Ocean Robotics**, working on backend and edge services for autonomous surface vessels.
 
-### 🚀 What I'm Working On
-- **SpaceHive**: Developing React Native + TypeScript event-space booking app, in collaboration with a UI/UX capstone team
-- **Journeo**: LLM-powered travel itinerary planner using React, FastAPI, and OpenAI's GPT API
-- **Learning Azure Cloud**: Recently earned AZ-900 certification, exploring further cloud development 
-
-### 💻 Technical Skills
-- **Languages**:        Python • JavaScript • Java • SQL • HTML/CSS • C++
-- **Web Dev**:         React.js • FastAPI • Node.js • REST APIs 
-- **AI/ML**:            LangGraph • OpenAI API • TensorFlow • LLM Integration
-- **Databases**:        MongoDB • SQL • PostGIS
-- **Cloud**:            Microsoft Azure (AZ-900 Certified)
-- **Tools**:            Git • ArcGIS • QGIS • MATLAB
-
-### 🌱 Currently Learning
-- Advanced cloud architecture patterns
-- Test automation frameworks
-- Modern JavaScript/TypeScript patterns
-
-### 🎓 Background
-MEng Software Engineering • BSc Geomatics Engineering • University of Calgary
-
-### 📫 Contact
-[LinkedIn](https://linkedin.com/in/eugene-lok) • eugeneywlok@gmail.com • Calgary, AB
-
----
+- **Day to day**: Rust microservices on Linux edge hardware with PostgreSQL, C++ navigation firmware and SITL, simulation, CI.
+- **Direction**: backend and infrastructure engineering — distributed systems, delivery and ingestion semantics, reliability at the boundaries between systems.
+- **Learning**: PostgreSQL (schema, indexes, transactions), Docker, GitHub Actions, AWS and Terraform.
+- **Languages**: Python · Rust · C++ · TypeScript · SQL
+- **Background**: MEng Software Engineering, BSc Geomatics Engineering — University of Calgary
+- [LinkedIn](https://linkedin.com/in/eugene-lok) · eugeneywlok@gmail.com · Victoria, BC
