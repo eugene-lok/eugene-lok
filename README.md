@@ -2,7 +2,7 @@
 
 # Eugene Lok
 
-Software Developer Intern (full-time, post-graduate) at **Open Ocean Robotics**, working on backend and edge services for autonomous surface vessels.
+I'm a Software Developer Intern at **Open Ocean Robotics**, working on backend and edge services for autonomous surface vessels. A little about me:
 
 - **Day to day**: Rust microservices on Linux edge hardware with PostgreSQL, C++ navigation firmware and SITL, simulation, CI.
 - **Direction**: backend and infrastructure engineering — distributed systems, delivery and ingestion semantics, reliability at the boundaries between systems.
